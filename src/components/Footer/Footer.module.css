@@ -1,0 +1,18 @@
+.footer {
+  text-align: center;
+  margin-top: 25px;
+}
+
+.footer a {
+  text-decoration: none;
+}
+
+.socialMediaIcons {
+  border-style: none;
+  background-color: transparent;
+  margin: 15px;
+}
+
+.socialMediaIcons:hover {
+  transform: scale(1.1);
+}
